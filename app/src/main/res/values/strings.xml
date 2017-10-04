@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Recycler Swipe</string>
+    <string name="action_settings">Settings</string>
+    <string name="my_cart">My Cart</string>
+    <string name="delete">DELETE</string>
+    <string name="appbar_scrolling_view_behavior">scroll</string>
+</resources>
